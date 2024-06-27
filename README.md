@@ -70,3 +70,10 @@ As a customer, I want to receive email notifications for order updates so that I
 
 **Story Points:**
 - 5
+
+  
+
+## Translations
+
+For other languages, refer to the following files:
+- [Bahasa Indonesia (README_id.md)](README_id.md)
