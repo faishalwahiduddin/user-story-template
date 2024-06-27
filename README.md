@@ -1,3 +1,25 @@
+# User Story Template Repository
+
+Welcome to the User Story Template Repository! This repository provides templates for creating user stories in agile project management, including both English and Indonesian versions.
+
+## Description
+
+This repository is designed to help project managers, product owners, and development teams create clear and concise user stories. By using these templates, you can ensure that your user stories are well-structured, easy to understand, and effective in communicating requirements.
+
+### Contents
+
+- **User Story Template (English)**
+- **User Story Template (Indonesian)**
+
+### How to Use
+
+1. **Clone the Repository:** Clone this repository to your local machine.
+2. **Choose a Template:** Select the appropriate user story template file (English or Indonesian).
+3. **Customize:** Customize the template to fit your specific project needs.
+4. **Create User Stories:** Use the customized template to create your user stories and add them to your project's backlog.
+
+### English Template
+
 # User Story Template
 
 **Title:**  
@@ -70,10 +92,3 @@ As a customer, I want to receive email notifications for order updates so that I
 
 **Story Points:**
 - 5
-
-  
-
-## Translations
-
-For other languages, refer to the following files:
-- [Bahasa Indonesia (README_id.md)](README_id.md)
