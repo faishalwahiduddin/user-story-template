@@ -1,4 +1,4 @@
-## Template User Story
+# Template User Story
 
 **Judul:**  
 [Fitur] Sebagai [peran pengguna], saya ingin [tujuan] agar [alasan/manfaat].
@@ -33,7 +33,9 @@ Sebagai [peran pengguna], saya ingin [tujuan atau keinginan] agar [alasan atau m
 **Poin Cerita:**
 - [Estimasi: Biasanya dalam poin cerita atau jam]
 
-## Contoh User Story
+---
+
+# Contoh User Story
 
 **Judul:**  
 [Fitur] Sebagai pelanggan, saya ingin menerima notifikasi email untuk pembaruan pesanan agar saya dapat mengetahui status pembelian saya.
